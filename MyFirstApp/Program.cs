@@ -5,7 +5,7 @@
         //Entry point of the program. All Code execution starts from here
         static void Main(string[] args)
         {
-            ////
+            //Update code 
             Console.WriteLine("This is your first app!");
             Console.WriteLine("My name is yusra!");
 
